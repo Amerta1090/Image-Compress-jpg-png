@@ -5,9 +5,13 @@ Welcome to the most dramatic and exhilarating journey of image compression! This
 
 ## 🎯 Features
 ✅ Compress JPEG and PNG images with surgical precision.
+
 ✅ Automatic quality adjustment using binary search for JPEGs.
+
 ✅ Smart optimization to maintain visual fidelity (because we care!).
+
 ✅ Supports a target size with a flexible tolerance range.
+
 ✅ Handles images like a seasoned digital magician.
 
 ## 🛠️ Installation
