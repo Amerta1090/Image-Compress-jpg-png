@@ -94,10 +94,9 @@ def compress_png(img, output_path, target_size, tolerance):
 
 # Contoh penggunaan
 if __name__ == "__main__":
+    input_path = "Umroh Backpacker Super Hemat 9D Keb April (Depan Belakang) copy.jpg" 
     compress_image(
-        input_path="Umroh Backpacker Awal Musim JUN - DES 2025 (Depan - Belakang) copy.jpg",
-        output_path = input_path.split(".")[0] + "_compressed.jpg",
-        target_size=5000000,  # 5000 KB
-        tolerance=0.1  # 10% toleransi
+        input_path=input_path,
+        output_path=input_path.split(".")[0] + "_compressed.jpg",
+        target_size=10000000,  # 10000 KB
     )
-
